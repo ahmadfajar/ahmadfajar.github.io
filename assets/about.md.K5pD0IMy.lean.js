@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a,R as i}from"./chunks/framework.arcVWjpT.js";const g=JSON.parse('{"title":"Introduction","description":"","frontmatter":{"outline":[2,3]},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"},o=i("",22),n=[o];function r(l,h,p,d,c,u){return e(),a("div",null,n)}const k=t(s,[["render",r]]);export{g as __pageData,k as default};
